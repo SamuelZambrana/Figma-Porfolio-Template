@@ -1,0 +1,22 @@
+:root {
+    /* Colour vars Principal*/
+    --background: #282C33;
+    --gray: #ABB2BF;
+    --color-primary: #C778DD;
+    --color-white: #FFFFFF;
+
+    /* Colour vars optional*/
+    --color-secondary: #2C2F24;
+    --color-tertiary: #F9F7F7;
+    --color-font: #182226;
+    --color-font-secondary: #414536;
+    --color-font-tertiary: #ADB29E;
+    --color-black: #000000;
+    --color-dark-grey: #474747;
+    --color-semi-dark-grey: #737865;
+    --color-light-grey: #DBDFD0;
+
+    /* Fonts vars */
+    --font-text: Fira Code, sans-serif;
+    --font-title: Fira Code, serif;
+}

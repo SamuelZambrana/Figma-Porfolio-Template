@@ -1,0 +1,21 @@
+.button-primary{
+    padding: 0.5rem 1rem;
+    border: 0.063rem solid var(--color-primary);
+    background-color: transparent; 
+    color: var(--color-white); 
+}
+
+.button-primary:hover{
+    background: rgba(199, 120, 221, 0.20);
+}
+
+.button-secondary{
+    padding: 0.5rem 1rem;
+    border: 0.063rem solid var(--gray);
+    background-color: transparent; 
+    color: var(--color-white); 
+}
+
+.button-secondary:hover{
+    background: rgba(171, 178, 191, 0.20);
+}
