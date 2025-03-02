@@ -15,17 +15,12 @@
 /**
  * Porfolio Index Styles
  */
+@import "/css/02-elements/media.css";
 @import "/css/02-elements/hero-banner.css";
-@import "/css/02-elements/our-menu.css";
-@import "/css/02-elements/about-us.css";
-@import "/css/02-elements/services.css";
-@import "/css/02-elements/food-delivery.css";
-@import "/css/02-elements/opinions.css";
-@import "/css/02-elements/blog.css";
-
+@import "/css/02-elements/projects.css";
 
 /**
- * Page Porfolio Styles
+ *  Other Pages Porfolio Styles
  */
 
 

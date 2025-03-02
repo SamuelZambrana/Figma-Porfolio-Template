@@ -1,0 +1,27 @@
+.main-media {
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    max-width: 6.25rem;
+}
+
+.main-media__img {
+    width: 11.938rem;
+    height: 0.063rem;
+    transform: rotate(90deg);
+    background-color: var(--color-primary);
+}
+
+.main-media__icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 6rem 0 0 0;
+}
+
+.media-icon__link:hover {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+}
